@@ -36,12 +36,6 @@ I specialize in:
 
 <br/>  
 
-
-## Rapidfire  
-📕 I am currently studying Web Application Development in the 2nd year.  
-
-
-
 </td></tr></table>  
 
 <br/>  
