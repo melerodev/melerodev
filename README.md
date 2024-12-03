@@ -70,7 +70,7 @@ I specialize in:
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="50%" border="0">
 
 <img src="https://github-readme-stats.vercel.app/api?username=melerodev&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
