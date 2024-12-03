@@ -34,13 +34,7 @@ I specialize in:
 🗂️ Database design and configuration.  
   
 
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-
+<br/> 
 
 </td><td valign="top" width="50%">
 
