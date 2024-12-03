@@ -17,24 +17,34 @@
 
 
 ### Glad to see you here!  
-I am a technician in **Computer Microsystems and Networks (SMR)** and I am currently studying **Web Application Development (DAW)**.
+I am a technician in Computer Microsystems and Networks (SMR) and I am currently studying Web Application Development (DAW).
 
 I specialize in:
 
-- 🎨 Interface design for web applications and websites.
+🎨 Interface design for web applications and websites.
 
-- 🖥️ Server configuration.
+🖥️ Server configuration.
 
-- 🌐 Network design and configuration.
+🌐 Network design and configuration.
 
-- 📄 Advanced use of word processors and spreadsheets.
+📄 Advanced use of word processors and spreadsheets.
 
-- 💻 Algorithm programming and software development.
+💻 Algorithm programming and software development.
 
-- 🗂️ Database design and configuration.  
+🗂️ Database design and configuration.  
   
 
 <br/>  
+
+
+## Rapidfire  
+<table><tr><td valign="top" width="50%">
+
+
+
+</td><td valign="top" width="50%">
+
+
 
 </td></tr></table>  
 
@@ -66,13 +76,15 @@ I specialize in:
 
 
 ## Github Stats  
-<td valign="top" width="50%">
+<table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=melerodev&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-<td valign="top" width="50%">
+</td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melerodev&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=melerodev&hide_border=true&layout=compact" align="right" style="width: 100%" /></div>
+
+</td></tr></table>  
 
 <br/>  
 
