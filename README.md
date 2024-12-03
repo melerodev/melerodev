@@ -21,17 +21,17 @@ I am a technician in Computer Microsystems and Networks (SMR) and I am currently
 
 I specialize in:
 
-🎨 Interface design for web applications and websites.
+- 🎨 Interface design for web applications and websites.
 
-🖥️ Server configuration.
+- 🖥️ Server configuration.
 
-🌐 Network design and configuration.
+- 🌐 Network design and configuration.
 
-📄 Advanced use of word processors and spreadsheets.
+- 📄 Advanced use of word processors and spreadsheets.
 
-💻 Algorithm programming and software development.
+- 💻 Algorithm programming and software development.
 
-🗂️ Database design and configuration.  
+- 🗂️ Database design and configuration.  
   
 
 <br/> 
