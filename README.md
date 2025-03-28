@@ -25,7 +25,7 @@
 
 ```typescript
 const melerodev = {
-    code: ["JavaScript", "TypeScript", "Python", "Java", "HTML", "CSS"],
+    code: ["JavaScript", "TypeScript", "Python", "Java", "HTML", "CSS", "PHP", "C#", "Blade", "Lua"],
     technologies: {
         frontEnd: {
             Java: ["JavaFX"],
