@@ -148,7 +148,6 @@ const melerodev = {
 
 [![Tamagochis Cabrones](https://github-readme-stats.vercel.app/api/pin/?username=melerodev&repo=tamagochis-cabrones&theme=radical)](https://github.com/melerodev/tamagochis-cabrones)  
 [![Taller Mecánico](https://github-readme-stats.vercel.app/api/pin/?username=melerodev&repo=TallerMecanico&theme=radical)](https://github.com/melerodev/TallerMecanico)  
-[![Anti-VPN](https://github-readme-stats.vercel.app/api/pin/?username=melerodev&repo=Anti-VPN&theme=radical)](https://github.com/melerodev/Anti-VPN)
 
 </div>
 
