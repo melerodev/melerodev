@@ -15,7 +15,6 @@
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7C3&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+Developer🐧;Web+Design✏️)](https://git.io/typing-svg)
   
   <p align="center">
-    <a href="https://www.linkedin.com/in/alejandro-melero-zhohal-85392a302/?originalSubdomain=es"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:melero.developer@gmail.com
 "><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   </p>
