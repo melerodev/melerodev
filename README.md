@@ -137,16 +137,16 @@ const melerodev = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melerodev&show_icons=true&theme=radical" alt="melerodev GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melerodev&layout=compact&theme=radical" alt="melerodev Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melerodev&show_icons=true&theme=radical&cache_seconds=86400" alt="melerodev GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melerodev&layout=compact&theme=radical&cache_seconds=86400" alt="melerodev Top Languages"/>
 </div>
 
 ## 🎯 Featured Projects
 
 <div align="center">
 
-[![Tamagochis Cabrones](https://github-readme-stats.vercel.app/api/pin/?username=melerodev&repo=tamagochis-cabrones&theme=radical)](https://github.com/melerodev/tamagochis-cabrones)  
-[![Taller Mecánico](https://github-readme-stats.vercel.app/api/pin/?username=melerodev&repo=TallerMecanico&theme=radical)](https://github.com/melerodev/TallerMecanico)  
+[![Tamagochis Cabrones](https://github-readme-stats.vercel.app/api/pin/?username=melerodev&repo=tamagochis-cabrones&theme=radical&cache_seconds=86400)](https://github.com/melerodev/tamagochis-cabrones)  
+[![Taller Mecánico](https://github-readme-stats.vercel.app/api/pin/?username=melerodev&repo=TallerMecanico&theme=radical&cache_seconds=86400)](https://github.com/melerodev/TallerMecanico)  
 
 </div>
 
