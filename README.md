@@ -141,21 +141,10 @@ const melerodev = {
   <img height="180em" src="https://github-readme-stats-one-alpha-69.vercel.app/api/top-langs?username=melerodev&layout=compact&locale=en&theme=tokyonight" alt="melerodev Top Languages"/>
 </div>
 
-## 🎯 Featured Projects
-
-<div align="center">
-
-[![Tamagochis Cabrones](https://github-readme-stats.vercel.app/api/pin?username=melerodev&repo=tamagochis-cabrones&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/melerodev/tamagochis-cabrones)
-
-[![Taller Mecánico](https://github-readme-stats.vercel.app/api/pin?username=melerodev&repo=TallerMecanico&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/melerodev/TallerMecanico)
-
-</div>
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=melerodev&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.solonovamax.gay/?username=melerodev&theme=tokyonight" alt="GitHub Trophies"/>
 </div>
-
 
 ---
