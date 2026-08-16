@@ -137,8 +137,8 @@ const melerodev = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melerodev&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="melerodev GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=melerodev&layout=compact&locale=en&theme=tokyonight" alt="melerodev Top Languages"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=melerodev&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="melerodev GitHub Stats"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=melerodev&layout=compact&locale=en&theme=tokyonight" alt="melerodev Top Languages"/>
 </div>
 
 ## 🏆 GitHub Trophies
