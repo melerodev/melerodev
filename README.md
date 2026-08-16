@@ -144,7 +144,7 @@ const melerodev = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=melerodev&theme=tokyonight" alt="GitHub Trophies"/>
+  <img src="https://trophygithubreadmelang.cybee.dpdns.org/?username=melerodev&theme=melerodev" alt="GitHub Trophies"/>
 </div>
 
 ---
